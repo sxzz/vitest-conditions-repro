@@ -1,0 +1,6 @@
+{
+  "name": "some-pkg",
+  "exports": {
+    "dev": "./index.ts"
+  }
+}
